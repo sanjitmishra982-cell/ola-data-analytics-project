@@ -1,2 +1,60 @@
-# ola-data-analytics-project
-End-to-end ride-sharing data analytics project solving real business problems using Python, SQL, Excel, and Power BI. Includes data cleaning, analysis, and interactive dashboard creation to generate actionable insights and demonstrate a complete analytics workflow.
+# Ola Ride Data Analytics — End-to-End Project
+
+## 📌 Project Overview
+
+This project is an end-to-end data analytics solution inspired by ride-sharing operations. The goal is to analyze operational data, solve real business problems, and generate actionable insights using industry-standard analytics tools.
+
+The workflow demonstrates how raw data is transformed into meaningful dashboards that support data-driven decision making.
+
+## 🛠 Tools & Technologies
+
+* Python — data cleaning & exploratory analysis
+* SQL — data extraction & querying
+* Excel — summarization & validation
+* Power BI — interactive dashboard visualization
+
+## 🔍 Key Features
+
+* Data cleaning and preprocessing
+* Business problem analysis
+* Exploratory data analysis
+* KPI tracking and visualization
+* Interactive Power BI dashboard
+
+## 📂 Dataset
+
+You can access the dataset used in this project here:
+
+👉 **Dataset Link:**
+[Add your dataset link here]
+
+*(Upload your dataset to GitHub, Google Drive, or Kaggle and paste the link above.)*
+
+## 📸 Screenshots
+
+Dashboard previews and analysis visuals:
+
+👉 **Dashboard Overview:**
+[Add screenshot link here]
+
+👉 **Ride Analysis Dashboard:**
+https://github.com/sanjitmishra982-cell/ola-data-analytics-project/blob/main/Dashboard-Screenshot.pdf
+
+## 📊 Business Insights Generated
+
+* Ride demand patterns
+* Customer behavior trends
+* Cancellation analysis
+* Operational performance metrics
+
+## 🚀 Project Workflow
+
+Data Extraction → Cleaning → Analysis → Insight Generation → Dashboard Visualization
+
+## 🎯 Outcome
+
+This project showcases real-world analytics practices, problem-solving ability, and the integration of multiple tools to deliver decision-ready insights.
+
+---
+
+⭐ Ideal for demonstrating practical data analytics skills in a portfolio or resume.
