@@ -31,6 +31,8 @@ You can access the dataset used in this project here:
 ## 👉 **Dashboard Overview:**
 https://github.com/sanjitmishra982-cell/ola-data-analytics-project/blob/main/Dashboard_Image.PNG
 
+![image alt](https://github.com/sanjitmishra982-cell/ola-data-analytics-project/blob/main/Dashboard_Image.PNG)
+
 ## 📊 Business Insights Generated
 
 * Ride demand patterns
