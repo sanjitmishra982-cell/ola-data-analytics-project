@@ -28,17 +28,8 @@ You can access the dataset used in this project here:
 👉 **Dataset Link: https://github.com/sanjitmishra982-cell/ola-data-analytics-project/blob/main/OLA_Dataset.xlsx
 
 
-
-
-## 📸 Screenshots
-
-Dashboard previews and analysis visuals:
-
-👉 **Dashboard Overview:**
-[Add screenshot link here]
-
-👉 **Ride Analysis Dashboard:**
-https://github.com/sanjitmishra982-cell/ola-data-analytics-project/blob/main/Dashboard-Screenshot.pdf
+## 👉 **Dashboard Overview:**
+https://github.com/sanjitmishra982-cell/ola-data-analytics-project/blob/main/Dashboard_Image.PNG
 
 ## 📊 Business Insights Generated
 
