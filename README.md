@@ -12,6 +12,17 @@ The workflow demonstrates how raw data is transformed into meaningful dashboards
 * SQL — data extraction & querying
 * Excel — summarization & validation
 * Power BI — interactive dashboard visualization
+## 💼 Business Problems Solved
+
+Identified ride demand trends across time periods
+
+Analyzed customer cancellation behavior
+
+Evaluated operational efficiency metrics
+
+Discovered patterns affecting service performance
+
+Generated insights to support data-driven decision making
 
 ## 🔍 Key Features
 
@@ -29,7 +40,8 @@ You can access the dataset used in this project here:
 
 
 ## 👉 **Dashboard Overview:**
-https://github.com/sanjitmishra982-cell/ola-data-analytics-project/blob/main/Dashboard_Image.PNG
+This interactive dashboard visualizes key ride-sharing metrics, trends, and operational performance. It enables quick insight discovery to support data-driven decision making.
+
 
 ![image alt](https://github.com/sanjitmishra982-cell/ola-data-analytics-project/blob/main/Dashboard_Image.PNG)
 
@@ -48,6 +60,13 @@ Data Extraction → Cleaning → Analysis → Insight Generation → Dashboard V
 
 This project showcases real-world analytics practices, problem-solving ability, and the integration of multiple tools to deliver decision-ready insights.
 
+# 👤 Author
+
+Sanjit Mishra
+
+🎓 MCA Student | 📊 Aspiring Data Analyst
+
+Skills: SQL, Python, Excel, Power BI
+
 ---
 
-⭐ Ideal for demonstrating practical data analytics skills in a portfolio or resume.
